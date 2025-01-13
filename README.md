@@ -19,8 +19,6 @@ This document explains the key variables and insights from the "Plant Co. Perfor
 
 ### 4. **Gross Profit (GP%)**
    - A measure of profitability, expressed as a percentage of total sales:
-     
-     \[ \text{GP%} = \left( \frac{\text{Gross Profit}}{\text{Sales}} \right) \times 100 \]
    - Indicates the efficiency of cost management and pricing strategies.
 
 ### 5. **Quantity**
